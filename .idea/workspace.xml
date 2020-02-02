@@ -46,16 +46,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+    <MESSAGE value="initial 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial 2" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
     <proxy>direct</proxy>
   </component>
   <component name="WindowStateProjectService">
-    <state x="561" y="119" key="CommitChangelistDialog2" timestamp="1580654915331">
+    <state x="561" y="119" key="CommitChangelistDialog2" timestamp="1580655497289">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="561" y="119" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580654915331" />
+    <state x="561" y="119" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580655497289" />
   </component>
 </project>
